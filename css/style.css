@@ -6,12 +6,12 @@
 
 @font-face {
 	font-family: raleway_f;
-	src: url(fonts/Raleway-ThinW.ttf);
+	src: url(C:/front/fonts/Raleway-ThinW.ttf);
 }
 
 @font-face {
 	font-family: raleway_f;
-	src: url(fonts/Raleway-VariableFont_wghtW.ttf);
+	src: url(C:/front/Raleway-VariableFont_wghtW.ttf);
 	font-weight: 900;
 }
 
@@ -320,126 +320,19 @@ body::-webkit-scrollbar-thumb {
 .desc {
   position: relative;
   top: -290px;
-  left: 17.8%;
+  left: 31%;
   color: #000;
   font-size: 20px;
   font-style: initial;
   font-weight: 500;
 }
 
-.desc1 {
-  position: relative;
-  top: -290px;
-  left: 22.3%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
+.desc p {
+  text-align: left;
 }
 
-.desc2 {
-  position: relative;
-  top: -290px;
-  left: 14.7%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-.desc3 {
-  position: relative;
-  top: -290px;
-  left: 43.6%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-.desc11 {
-  position: relative;
-  top: -290px;
-  left: 4%;
-  color: #000;
-  font-size: 30px;
-  font-style: initial;
-  font-weight: 530;
-}
-
-.desc22 {
-  position: relative;
-  top: -290px;
-  left: 28.2%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-
-.desc33 {
-  position: relative;
-  top: -290px;
-  left: 13.6%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-
-.desc44 {
-  position: relative;
-  top: -290px;
-  left: 26.3%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-
-.desc55 {
-  position: relative;
-  top: -290px;
-  left: 40.8%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-
-.desc111 {
-  position: relative;
-  top: -290px;
-  left: 12.3%;
-  color: #000;
-  font-size: 30px;
-  font-style: initial;
-  font-weight: 530;
-}
-
-
-.desc222 {
-  position: relative;
-  top: -290px;
-  left: 20.4%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
-}
-
-.desc333 {
-  position: relative;
-  top: -290px;
-  left: 18%;
-  color: #000;
-  font-size: 20px;
-  font-style: initial;
-  font-weight: 500;
+.desc-title {
+  font-weight: 550;
 }
 
 .main-low__paragraph {
