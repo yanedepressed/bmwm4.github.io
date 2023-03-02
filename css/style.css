@@ -6,12 +6,12 @@
 
 @font-face {
 	font-family: raleway_f;
-	src: url(C:/front/fonts/Raleway-ThinW.ttf);
+	src: url(fonts/Raleway-ThinW.ttf);
 }
 
 @font-face {
 	font-family: raleway_f;
-	src: url(C:/front/Raleway-VariableFont_wghtW.ttf);
+	src: url(Raleway-VariableFont_wghtW.ttf);
 	font-weight: 900;
 }
 
